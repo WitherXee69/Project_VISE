@@ -17,7 +17,9 @@
 
 - Python
 - pyttsx3 (TTS)
-- [Add any others you used here]
+- Speech Recognition
+- PyAudio
+- Whisper and more...
 
 ---
 
