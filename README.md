@@ -1,6 +1,7 @@
 # VISE 🎙️
 
 **VISE (Voice Interactive Synthetic Entity)** is a Python-based text-to-speech chatbot project built with the goal of exploring natural language interaction and synthetic voice responses. This was my first dive into voice bots, combining logic, emotion, and code into one talkative little buddy.
+Had to hiatus due to lack of system resources to work with language models.
 
 ---
 
